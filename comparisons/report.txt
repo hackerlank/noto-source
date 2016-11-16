@@ -1,0 +1,8 @@
+fontdiff exit status for instance_ttf/NotoSansSinhala-Condensed.ttf: 1
+fontdiff exit status for instance_ttf/NotoSansSinhala-Light.ttf: 1
+fontdiff exit status for instance_ttf/NotoSansSinhala-Medium.ttf: 1
+fontdiff exit status for instance_ttf/NotoSansSinhala-Regular.ttf: 1
+fontdiff exit status for instance_ttf/NotoSansSinhala-SemiBold.ttf: 1
+fontdiff exit status for instance_ttf/NotoSansSinhala-SemiCondensedLight.ttf: 1
+fontdiff exit status for instance_ttf/NotoSansSinhala-SemiCondensedMedium.ttf: 1
+fontdiff exit status for instance_ttf/NotoSansSinhala-SemiCondensed.ttf: 1
