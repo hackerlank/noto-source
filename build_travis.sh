@@ -141,8 +141,8 @@ function main() {
         "head": "staging",
         "base": "master"
     }'
-    curl -u "${credentials}" -d "${pull_request_json//$'\n'/}"\
-        'https://api.github.com/repos/googlei18n/noto-source/pulls'
+    #curl -u "${credentials}" -d "${pull_request_json//$'\n'/}"\
+    #    'https://api.github.com/repos/googlei18n/noto-source/pulls'
     #TODO find and post a comment on the original PR to staging
 }
 
